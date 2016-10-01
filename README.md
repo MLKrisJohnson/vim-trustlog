@@ -5,7 +5,7 @@ Vim syntax highlighting plugin for Mobile Labs Trust log files.
 
 ![vim-trustlog Syntax Highlighting Screenshot](https://raw.githubusercontent.com/MLKrisJohnson/vim-trustlog/master/trustlog.png)
 
-When installed, this [vim](http://www.vim.org) plugin defines a new filetype named "trustlog", and syntax highlighting scheme for it.
+When installed, this [vim](http://www.vim.org) plugin defines a new filetype named "trustlog", and a syntax highlighting scheme for it.
 
 Any filename matching the patterns `deviceViewer*.log` or `UftAgent*.log` will automatically be opened with this filetype.
 
