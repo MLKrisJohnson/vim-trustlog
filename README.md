@@ -5,9 +5,11 @@ Vim syntax highlighting plugin for Mobile Labs Trust log files.
 
 ![vim-trustlog Syntax Highlighting Screenshot](https://raw.githubusercontent.com/MLKrisJohnson/vim-trustlog/master/trustlog.png)
 
-When installed, this [vim](http://www.vim.org) plugin defines a new filetype named "trustlog", and a syntax highlighting scheme for it.
+When installed, this [vim](http://www.vim.org) plugin defines a new filetype
+named "trustlog", and a syntax highlighting scheme for it.
 
-Any filename matching the patterns `deviceViewer*.log` or `UftAgent*.log` will automatically be opened with this filetype.
+Any filename matching the patterns `deviceViewer*.log` or `UftAgent*.log` will
+automatically be opened with this filetype.
 
 This plugin also defines two user commands:
 
@@ -35,9 +37,15 @@ git clone https://github.com/MLKrisJohnson/vim-trustlog.git
 
 #### Unix 
 
-Download the files. Copy `ftdetect/trustlog.vim` into your `~/.vim/ftdetect` directory, `syntax/trustlog.vim` into your `~/.vim/syntax` directory, and `plugin/trustlog.vim` into your `~/.vim/plugin`, creating those directories if necessary.
+Download the files. Copy `ftdetect/trustlog.vim` into your `~/.vim/ftdetect`
+directory, `syntax/trustlog.vim` into your `~/.vim/syntax` directory, and
+`plugin/trustlog.vim` into your `~/.vim/plugin`, creating those directories if
+necessary.
 
 #### Windows
 
-Download the files. Copy `ftdetect/trustlog.vim` into your `~\vimfiles\ftdetect` directory, `syntax/trustlog.vim` file into your `~\vimfiles\syntax` directory, and plugin/trustlog.vim` into your `~\vimfiles\plugin` directory, creating those directories if necessary.
+Download the files. Copy `ftdetect/trustlog.vim` into your
+`~\vimfiles\ftdetect` directory, `syntax/trustlog.vim` file into your
+`~\vimfiles\syntax` directory, and `plugin/trustlog.vim` into your
+`~\vimfiles\plugin` directory, creating those directories if necessary.
 
